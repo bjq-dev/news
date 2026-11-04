@@ -1,10 +1,10 @@
 [
  {
   "file": "2026-11-05.mp3",
-  "title": "Thu 5 Nov 2026 \u2013 Pilot",
+  "title": "Morning Brief, Thu 5 Nov 2026",
   "notes": "Pilot episode. Ava (AI), Liam (crypto & trading), Grace (science).\nAI:\n- Qwen 3.8 27B can interpret model weights: https://simonwillison.net/2026/nov/3/qwen-can-interpret-model-weights/\n- A single Jacobian already works: https://liusida.com/research-notes/single-jacobian-lens/\n- Karpathy, HackerTube: https://karpathy.bearblog.dev/hacker-tube/\n- Anthropic FlashProve, provable inference: https://www.anthropic.com/research/provable-inference\n- AI dev platform token-stealing breaches: https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/\nCrypto & trading:\n- Binance $6.3B hack post-mortem: https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html\n- Binance Recovery Update #7: https://exchange.news/news/binance-recovery-update-7-98-percent-stolen-assets-replenished-44-token-proof-of-reserves/\n- Solana weekly, Agave v4.4.0: https://solanahub.de/en/news/solana-news-wochenrueckblick-2026-11-01/\n- Chainlink APAC Equities Streams: https://cryptobriefing.com/chainlink-apac-equities-streams-40-trillion/\n- Chainlink Link:NYC recap: https://chain.link/blog/link-nyc-recap-2026\nScience:\n- CERN rare particle decay and galactic-centre gamma-ray results (discussed in episode)\n",
-  "dur": 820,
-  "len": 6564140,
-  "date": "Thu, 05 Nov 2026 09:52:40 +1100"
+  "dur": 773,
+  "len": 6187820,
+  "date": "Thu, 05 Nov 2026 09:54:23 +1100"
  }
 ]
