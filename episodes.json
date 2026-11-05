@@ -6,5 +6,13 @@
   "dur": 773,
   "len": 6187820,
   "date": "Thu, 05 Nov 2026 09:54:23 +1100"
+ },
+ {
+  "file": "2026-11-06.mp3",
+  "title": "Morning Brief, Fri 6 Nov 2026",
+  "notes": "Morning Brief, Friday 6 Nov 2026. AI with Ava, crypto & trading with Andrew, science with Emma.\n\nAI\n1. OpenAI: A thousand fewer paths to root (948 Linux LPE exploits, $1.2M run): https://openai.com/index/a-thousand-fewer-paths-to-root/\n2. OpenAI launches GPT-6 Cyber: https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch\n3. Ricursive Ripple-65B Preview, dense open-weight agentic coder: https://www.ricursive.com/ripple\n4. What does multi-turn RL really improve in LLM agents? https://arxiv.org/abs/2611.06483\n\nCrypto & trading\n5. How Binance's $6.3B hack happened (fake interview, internal AI tool, EIP-7702): https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained\n6. Binance restores withdrawals for 51 more ETH and SOL assets: https://crypto.news/binance-restores-withdrawals-for-more-ethereum-solana-tokens-after-6-3b-hack/\n7. SOL and LINK bounce fades into long liquidations: https://www.tokenpost.com/news/investing/49396 and https://www.tokenpost.com/news/investing/49406\n\nScience\n8. M87 black hole mass from JWST + Keck stellar kinematics: https://arxiv.org/abs/2611.05486\n9. Machine learning finds hundreds of new Little Red Dot candidates: https://arxiv.org/abs/2611.06026\n10. Tiny galaxies, mighty nitrogen (JWST/JADES): https://arxiv.org/abs/2611.03799\n\nNot financial advice.\n",
+  "dur": 943,
+  "len": 7551404,
+  "date": "Fri, 06 Nov 2026 06:44:47 +1100"
  }
 ]
