@@ -14,5 +14,13 @@
   "dur": 943,
   "len": 7551404,
   "date": "Fri, 06 Nov 2026 06:44:47 +1100"
+ },
+ {
+  "file": "2026-11-07.mp3",
+  "title": "Morning Brief, Sat 7 Nov 2026",
+  "notes": "Morning Brief, Saturday 7 Nov 2026. AI with Ava, crypto & trading with Andrew, science with Emma.\n\nAI\n1. METR independent assessment of AI R&D acceleration at Anthropic: https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/\n2. PSI proves the Aaronson\u2013Ambainis conjecture (Lean-checked): https://psi.inc/research/aaronson-ambainis/ and https://github.com/physical-superintelligence/aaronson-ambainis\n3. Science's Last Exam (SLE) \u2014 agents score 37.5/100, 0 on end-to-end research: https://aitonomy.org/\n\nCrypto & trading\n4. OlympusDAO migrates OHM bridging to Chainlink CCIP (~$280M, seven chains): https://docs.olympusdao.finance/main/overview/cross-chain and https://forum.olympusdao.finance/d/5596-oip-198-expand-ohm-bridging-with-chainlink-ccip\n5. Solana Labs Leap mobile trading app (tokenized stocks + crypto): https://www.prnewswire.com/news-releases/leap-a-solana-labs-company-launches-high-performance-trading-app-302929991.html\n6. Binance aims to finish remaining withdrawals by end of next week; Elliptic: ~$124M swapped to BTC: https://cryptobriefing.com/binance-withdrawal-restoration-next-week/\n7. LINK soft near $10.70 while Binance futures lean long: https://blockchain.news/news/20261106-price-prediction-link-support-is-under-pressure-as-futures\n\nScience\n8. JWST UVLFs constrain neutrino self-interactions: https://arxiv.org/abs/2611.07013\n9. Violent relaxation in hierarchical stellar systems \u2192 early massive black holes: https://arxiv.org/abs/2611.07546\n10. ESA Hera first close-up of Didymos asteroids: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-s-first-close-up-view-of-didymos-asteroids\n\nNot financial advice.\n",
+  "dur": 914,
+  "len": 7319276,
+  "date": "Sat, 07 Nov 2026 06:46:59 +1100"
  }
 ]
