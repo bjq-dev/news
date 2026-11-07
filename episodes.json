@@ -22,5 +22,13 @@
   "dur": 914,
   "len": 7319276,
   "date": "Sat, 07 Nov 2026 06:46:59 +1100"
+ },
+ {
+  "file": "2026-11-08.mp3",
+  "title": "Morning Brief, Sun 8 Nov 2026",
+  "notes": "Morning Brief, Sun 8 Nov 2026\n\nAI\n- Reflection Beam tech report: https://reflection.ai/documents/beam-model-tech-report\n- Thinking Machines Inkling 2 Small: https://thinkingmachines.ai/news/inkling-2-small/\n- Into the Unknown (arXiv): https://arxiv.org/abs/2610.19159\n\nCrypto & trading\n- ZetaChain Proposal 70: https://hub.zetachain.com/governance/proposal/70\n- Jupiter + Chainlink APAC equity perps: https://cryptobriefing.com/jupiter-chainlink-asian-equity-perpetuals/\n- CoinGecko prices (LINK/SOL/ZETA): https://api.coingecko.com/api/v3/simple/price?ids=chainlink,solana,zeta&vs_currencies=usd&include_24hr_change=true\n- Karpathy TristanTube: https://x.com/karpathy/status/2119114537442189652\n\nScience\n- M87 BH mass (arXiv): https://arxiv.org/abs/2611.05486\n- DESI DR2 Milky Way mass (arXiv): https://arxiv.org/abs/2611.05518\n- Little Red Dots ML search (arXiv): https://arxiv.org/abs/2611.06026\n\nExtra\n- Anthropic agent memory / dreaming: https://www.anthropic.com/research/components-of-agent-memory\n- Beam model card: https://reflection.ai/beam-model-card\n- hyphen (NIRSpec wiggles): https://github.com/EmilyLiepold/hyphen\n",
+  "dur": 831,
+  "len": 6649004,
+  "date": "Sun, 08 Nov 2026 06:56:04 +1100"
  }
 ]
