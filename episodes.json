@@ -30,5 +30,13 @@
   "dur": 831,
   "len": 6649004,
   "date": "Sun, 08 Nov 2026 06:56:04 +1100"
+ },
+ {
+  "file": "2026-11-09.mp3",
+  "title": "Morning Brief, Monday 9 Nov 2026",
+  "notes": "Morning Brief, Monday 9 Nov 2026\n\nAI\n- TraceMRT (arXiv:2611.07586): https://arxiv.org/abs/2611.07586\n  Code: https://github.com/T-STAR-Lab/TraceMRT\n- SAE Interprets MoE (arXiv:2611.08089): https://arxiv.org/abs/2611.08089\n  Project: https://bytedance-seed.github.io/SAE-interprets-MoE/\n- Coca-Cola latent tool compression (arXiv:2611.06500): https://arxiv.org/abs/2611.06500\n  Code: https://github.com/THU-Agent/Coca-cola\n- Salesforce on-policy distillation vs GRPO (arXiv:2611.08453): https://arxiv.org/abs/2611.08453\n\nCrypto & trading\n- Keplr (Google/Apple login pause): https://x.com/keplrwallet/status/2118926087615045807\n  Web3Auth: https://x.com/Web3Auth/status/2118814067359969745\n  Bitquery on-chain note: https://bitquery.io/investigations/keplr-wallet-hack\n- Binance restores HYPE and APT withdrawals: https://x.com/binance/status/2119352231732580574\n  Yi He on ZK proof-of-reserves: https://x.com/heyibinance/status/2118698626520346871\n  Proof of Reserves: https://www.binance.com/en/proof-of-reserves\n- US spot bitcoin ETF flows (Farside): https://farside.co.uk/btc/\n- Tape (CoinGecko, Solana): https://www.coingecko.com/en/coins/solana\n\nScience\n- FLIP / JWST NIRCam digital twin (Nature): https://www.nature.com/articles/s41586-026-11213-z\n  Caltech write-up: https://www.caltech.edu/about/news/erasing-the-stars-to-find-exoplanets\n  Code: https://github.com/rferrerc/pyflip\n- Physics-informed neural operators for rotating neutron stars (arXiv:2611.05790): https://arxiv.org/abs/2611.05790\n\nExtra reading\n- TraceMRT GitHub: https://github.com/T-STAR-Lab/TraceMRT\n- SAE Interprets MoE explorer: https://bytedance-seed.github.io/SAE-interprets-MoE/\n- Coca-Cola code: https://github.com/THU-Agent/Coca-cola\n- pyflip: https://github.com/rferrerc/pyflip\n- Binance Proof of Reserves: https://www.binance.com/en/proof-of-reserves\n",
+  "dur": 901,
+  "len": 7209644,
+  "date": "Mon, 09 Nov 2026 06:46:20 +1100"
  }
 ]
