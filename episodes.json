@@ -38,5 +38,13 @@
   "dur": 901,
   "len": 7209644,
   "date": "Mon, 09 Nov 2026 06:46:20 +1100"
+ },
+ {
+  "file": "2026-11-10.mp3",
+  "title": "Morning Brief, Tue 10 Nov 2026",
+  "notes": "Morning Brief, Tue 10 Nov 2026\n\n1. ETUDE: poisoned tool updates beat agent defences 97.6% of the time\nhttps://arxiv.org/abs/2611.01976\n\n2. \"Office Party\": Claude's official DOCX/PPTX/XLSX skills could load attacker code on Linux\nhttps://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux\n\n3. Anthropic: Claude designed three working circuit boards end to end\nhttps://www.anthropic.com/research/claude-electronics-design\n\n4. Meta Muse Ember: a $0.10/M-token small model for agent grunt work\nhttps://research.meta.ai/blog/muse-ember\n\n5. Bitcoin's fifth red week meets today's US CPI print\nhttps://blog.bitfinex.com/bitfinex-alpha/after-the-equity-rout-cpi-sets-direction/\n\n6. Solana: Agave 4.4.1 and Firedancer 26.10.6 align on a new rule; Agave 4.5 beta on testnet\nhttps://github.com/anza-xyz/agave/releases\n\n7. Chainlink APAC Equities Streams expand to six exchanges; Jupiter lists Asian stock perps\nhttps://cryptobriefing.com/jupiter-chainlink-asian-equity-perpetuals/\n\n8. JWST/MIRI: the Little Red Dot QSO1's red rise stops at one micron\nhttps://arxiv.org/abs/2611.09397\n\n9. JWST parallax finds the most distant known Y dwarf, a planetary-mass benchmark\nhttps://arxiv.org/abs/2611.08346\n\n10. M87's black hole weighs 5.38 billion Suns, from JWST + Keck stellar orbits\nhttps://arxiv.org/abs/2611.05486\n\nExtra reading\n- Counterfactual world models (Balestriero, Varaku, LeCun): https://www.theregister.com/ai-and-ml/2026/11/09/machine-learning-researchers-build-a-better-world-model/5308301\n- Context Window AI security digest, 9 Nov: https://contextwindowsec.com/episodes/2026-11-09.html\n- Glassnode BTC Market Pulse week 46: https://research.glassnode.com/btc-market-pulse-week-46-2026/\n- Firedancer releases: https://github.com/firedancer-io/firedancer/releases\n- JWST-IMFERNO: bottom-heavy IMF cores at z ~ 0.7: https://arxiv.org/abs/2611.08612\n",
+  "dur": 879,
+  "len": 7038188,
+  "date": "Tue, 10 Nov 2026 06:42:52 +1100"
  }
 ]
