@@ -46,5 +46,13 @@
   "dur": 879,
   "len": 7038188,
   "date": "Tue, 10 Nov 2026 06:42:52 +1100"
+ },
+ {
+  "file": "2026-11-11.mp3",
+  "title": "Morning Brief, Wed 11 Nov 2026",
+  "notes": "Morning Brief, Wed 11 Nov 2026\n\n1. DeepMind's AI agents mathematically prove Signal's real code is secure\nhttps://deepmind.google/blog/introducing-alphaproof-code/\n\n2. Anthropic: diluting poisoned training data can make it stronger\nhttps://alignment.anthropic.com/2026/homeopathic-learning/\n\n3. Nobody sent the AI agent that breached WorkOS\nhttps://jark.me/blog/nobody-sent-the-ai-agent-that-breached-workos/\n\n4. fast-agent's \"serve\" lets anyone on the network run commands through your agent\nhttps://theagentictimes.org/vulnerabilities/unauthenticated-code-execution-flaw-found-in-fast-agent-serve\n\n5. Hot US inflation print triggers a bitcoin liquidation cascade\nhttps://news.bitcoin.com/market-updates/bitcoin-price-crashes-72787-hotter-than-expected-cpi/\n\n6. Binance keeps reopening withdrawals one route at a time\nhttps://mempoolbrief.com/articles/binance-reopens-hype-and-apt-withdrawals-in-staged-return\n\n7. Moody's pilots sending credit ratings across chains with Chainlink\nhttps://www.tronweekly.com/chainlink-and-moodys-complete-cross-chain/\n\n8. Schwab adds Solana, Avalanche and Chainlink trading, and prices shrug\nhttps://basecamp.markets/schwab-crypto-solana-avalanche-chainlink/\n\n9. Gravitational waves hint at giant stars that died without exploding\nhttps://www.caltech.edu/about/news/astronomers-find-hints-of-star-population-that-failed-to-explode\n\n10. ALPS II's \"light shining through a wall\" axion hunt reports a careful no\nhttps://phys.org/news/2026-11-world-sensitive-lab-based-axion.html\n\nExtra reading:\n- Nvidia GR00T 2: https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/\n- Operation Snowball: https://cisovoice.com/ai-security/deepseek-flash-ai-agents-operation-snowball-telecom/\n- BOSSAI campaign: https://www.thaicert.or.th/en/2026/11/10/researchers-reveal-attackers-used-ai-agents-to-scan-for-vulnerabilities-and-target-multiple-organizations/\n- LHCb's one-in-ten-billion decay: https://home.cern/lhcb-finds-evidence-of-one-in-ten-billion-particle-decay/\n- AI paper roundup, 10 Nov: https://nhip.verai.vn/en/papers/2026-11-10\n",
+  "dur": 794,
+  "len": 6358700,
+  "date": "Wed, 11 Nov 2026 06:44:25 +1100"
  }
 ]
